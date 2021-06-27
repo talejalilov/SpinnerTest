@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SpinnerExample</string>
+
+    <array name="seasonName">
+
+        <item>  Spring</item>
+        <item>  Summer</item>
+        <item>  Autumn</item>
+        <item>  Winter</item>
+
+    </array>
+</resources>
